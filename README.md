@@ -33,8 +33,8 @@ Citation
 
 If you made use of this software please consider citing:
 
--   J. Ying, J. V. de M. Cardoso, D. P. Palomar, “Minimax Estimation of 
-Laplacian Constrained Precision Matrices,” in Proc. of the 24th International 
+-   J. Ying, J. V. de M. Cardoso, D. P. Palomar, "Minimax Estimation of 
+Laplacian Constrained Precision Matrices," in Proc. of the 24th International 
 Conference on Artificial Intelligence and Statistics (AISTATS), vol. 130, 
 pp. 3736-3744, April 2021.
 
